@@ -1,5 +1,5 @@
 # Cuttle Multiplayer
-Cuttle Multiplayer is a strategic battle card game that can be played with a standard deck playing cards.
+Cuttle Multiplayer is a strategic battle card game that can be played with a standard deck of playing cards.
 
 For 2-5 players.  Recommended 2-3 players.  Ages 8+
 Play time: Average 5 minutes. 20 seconds – 20 minutes.
