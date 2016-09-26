@@ -46,7 +46,7 @@ SEVEN (discard down at the end of your turn)
 * 5	Draw TWO cards.
 * 6	Destroy ALL permanents.
 * 7	Draw a card and immediately play it (even if it is to your disadvantage).  If the card cannot be used, discard.
-* 9	Return a permanent card to owner’s hand.
+* 9	Return a permanent card to owner’s hand.  That permanent card cannot be played next turn.
 
 # Permanent Cards (Play sideways)
 
