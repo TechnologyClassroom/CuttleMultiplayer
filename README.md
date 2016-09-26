@@ -7,7 +7,11 @@ Play time: Average 5 minutes. 20 seconds – 20 minutes.
 
 Use a standard deck of 52 cards without jokers.
 
-Print out the PDF version of Cuttle Multiplayer and place a copy of the rules between all players.
+Print out the <a href="https://github.com/TechnologyClassroom/CuttleMultiplayer/blob/master/Cuttle_Multiplayer_v1.2.pdf">PDF version</a> of Cuttle Multiplayer and place a copy of the 1st page between all players.
+
+To make your own version, modify the <a href="https://github.com/TechnologyClassroom/CuttleMultiplayer/blob/master/Cuttle_Multiplayer_v1.2.odt">ODT version</a> using LibreOffice.
+
+To make a change through github, use the <a href="https://github.com/TechnologyClassroom/CuttleMultiplayer/blob/master/CuttleMultiplayerPlainText.md">PlainText version</a>.  Fork, branch, change, and merge.  Proposed changes will be playtested before a final merge into the master branch.
 
 Cuttle (2 player) created anonymously in the 1970s.  Cuttle Multiplayer was created by Michael McMahon and the Intel Computer Clubhouse at the Blue Hill Boys & Girls Club in 2014.
 
