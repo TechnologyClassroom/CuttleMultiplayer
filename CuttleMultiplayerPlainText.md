@@ -91,6 +91,15 @@ SEVEN (discard down at the end of your turn)
 # Frequently Asked Questions:
 * Can I make my own version of Cuttle?  Yes, Cuttle Multiplayer is released under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.  This allows you to share and adapt this work as long as you give appropriate credit, indicate if changes were made, provide a link to the license, and share under the same license.  For more information, check out https://creativecommons.org/licenses/by-sa/4.0/
 * Why is Cuttle so similar to other battle card games?  Cuttle is thought to be the first modern battle card game.  Many popular games are based off its concepts.
+* Where else can I read more about cuttle?  Here are some links to Cuttle related websites:
+  * https://en.wikipedia.org/wiki/Cuttle
+  * https://www.pagat.com/combat/cuttle.html
+  * https://github.com/shmup/card-game-rules/blob/master/cuttle.md
+  * http://www.geocities.ws/richardsipie/cuttle.htm
+  * https://www.reddit.com/r/boardgames/comments/2xnnx5/2player_card_game_cuttle/
+  * https://boardgamegeek.com/boardgame/115370/cuttle
+  * https://boardgamegeek.com/thread/724062/discussion-interesting-card-game-cuttle
+  * https://www.denexa.com/blog/cuttle/
 
 
 Cuttle (2 player) created anonymously in the 1970s.  Cuttle Multiplayer was created by Michael McMahon and the Intel Computer Clubhouse at the Blue Hill Boys & Girls Club in 2014.
