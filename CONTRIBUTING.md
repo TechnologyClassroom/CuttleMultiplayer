@@ -8,7 +8,8 @@ I would like you to make a contribution to Cuttle Multiplayer!
 * Check this page or the
   [Issues page](https://github.com/TechnologyClassroom/CuttleMultiplayer/issues)
   for something you can contribute towards.
-  * If you do not see the item that you would like changed on those lists, submit a
+  * If you do not see the item that you would like changed on those lists,
+    submit a
     [new issue](https://github.com/TechnologyClassroom/CuttleMultiplayer/issues/new)
     for something that you would like to see changed.
 * Create a fork of the repository on GitHub.  This will redirect you to a new
